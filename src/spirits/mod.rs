@@ -4,13 +4,13 @@ pub mod anime;
 pub mod image;
 #[path ="./Input.rs"]
 pub mod input;
-#[path ="./LifeTime.rs"]
-pub mod life_time;
+#[path ="./GameObj.rs"]
+pub mod game_obj;
 #[path ="./InputTest.rs"]
 pub(crate) mod input_test;
 #[path ="./ImageTest.rs"]
 pub(crate) mod image_test;
 #[path ="./AnimeTest.rs"]
 pub(crate) mod anime_test;
-#[path ="./LifeTimeTest.rs"]
-pub(crate) mod life_time_test;
+#[path ="./GameObjTest.rs"]
+pub(crate) mod game_obj_test;

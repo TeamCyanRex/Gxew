@@ -1,8 +1,8 @@
 #[path ="./GameCenter.rs"]
 pub mod game_center;
-#[path ="./GameSence.rs"]
+#[path ="./GameScene.rs"]
 pub mod game_scene;
 #[path ="./GameCenterTest.rs"]
 pub(crate) mod game_center_test;
-#[path ="./GameSenceTest.rs"]
+#[path ="./GameSceneTest.rs"]
 pub(crate) mod game_scene_test;
